@@ -1,0 +1,9 @@
+Homestead.yaml
+Homestead.json
+/vendor
+/node_modules
+.env
+.idea
+Thumbs.db
+.idea
+.bowerrc
