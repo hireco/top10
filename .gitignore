@@ -7,3 +7,4 @@ Homestead.json
 Thumbs.db
 .idea
 .bowerrc
+composer.lock
